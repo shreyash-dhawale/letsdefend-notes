@@ -13,6 +13,8 @@ What it means: In this module, I learn the back-end of malware analysis and how 
 
 ### Connection to my projects
 How this connects to my Thursday malware analysis: From this module, I learn to get the brief understanding of the workflow of how malware affects the system that can be beneficial for the previous malware analysis and also upcoming malware analysis. 
+
+
 ---
 
 ## Module: Network Log Analysis
